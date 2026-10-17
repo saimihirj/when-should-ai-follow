@@ -1,0 +1,15 @@
+$ python make_figures.py --results ../output/results --figdir ../output/figures
+Building figures ...
+  wrote fig01_baseline_regimes.pdf / .png
+  wrote fig03_modular.pdf / .png
+  wrote fig04_ai_to_human.pdf / .png
+  wrote fig05_human_to_ai.pdf / .png
+  wrote fig06_sequence_comparison.pdf / .png
+  wrote fig08_local_peaks.pdf / .png
+  wrote fig09_heatmap_modular.pdf / .png
+  wrote fig11_heatmap_human_to_ai.pdf / .png
+  Fig 10 skipped: K_Human is always 0 in the AI-to-Human structure (see README).
+  wrote summary.json
+Done: ../output/figures
+
+[exit code 0, 8.8 s]

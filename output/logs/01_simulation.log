@@ -1,0 +1,9 @@
+$ python nkc_models.py --outdir ../output/results --seed 0 --iterations 1
+[modular] iteration 1/1 done (70125 rows)
+Wrote ../output/results/modular_simulation_results.csv
+[ath] iteration 1/1 done (57375 rows)
+Wrote ../output/results/sequential_simulation_results_ath.csv
+[hta] iteration 1/1 done (18750 rows)
+Wrote ../output/results/simulation_results_hta.csv
+
+[exit code 0, 12.9 s]

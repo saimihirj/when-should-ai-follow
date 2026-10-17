@@ -1,0 +1,53 @@
+{
+  "modular_simulation_results.csv": {
+    "md5": "0ec3c0cac85143ba5b3892528c374e36",
+    "rows": 70125,
+    "column_sums": {
+      "Simulation": 70125.0,
+      "N_AI": 2360875.0,
+      "K_AI": 1145375.0,
+      "N_Human": 490875.0,
+      "K_Human": 210375.0,
+      "C": 0.0,
+      "LP_AI": 1918150.0,
+      "PO_AI": 30136.93304037855,
+      "LP_Human": 412296.0,
+      "PO_Human": 22297.55476190476,
+      "APO_Modular": 26217.243901141657
+    }
+  },
+  "sequential_simulation_results_ath.csv": {
+    "md5": "a0554610ae5a60f1c63028da35c8fdd3",
+    "rows": 57375,
+    "column_sums": {
+      "Simulation": 57375.0,
+      "N_AI": 1931625.0,
+      "K_AI": 937125.0,
+      "N_Human": 420750.0,
+      "K_Human": 0.0,
+      "C": 210375.0,
+      "LP_AI": 1569391.0,
+      "PO_AI": 24763.558036052673,
+      "LP_Human": 353233.0,
+      "PO_Human": 20833.466269841272,
+      "APO_Sequential_ATH": 22798.512152946972
+    }
+  },
+  "simulation_results_hta.csv": {
+    "md5": "a6c0d3e13a923edbca0c64c2890b1d43",
+    "rows": 18750,
+    "column_sums": {
+      "Iteration": 18750.0,
+      "N_AI": 478125.0,
+      "K_AI": 0.0,
+      "N_Human": 148500.0,
+      "K_Human": 74250.0,
+      "C": 74250.0,
+      "NLP_AI": 397684.0,
+      "PO_AI": 9126.099575613276,
+      "NLP_Human": 120236.0,
+      "PO_Human": 6835.795238095238,
+      "APO": 7980.947406854257
+    }
+  }
+}

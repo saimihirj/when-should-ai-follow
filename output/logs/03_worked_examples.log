@@ -1,0 +1,6 @@
+$ python worked_examples.py
+Figure 2: history (oldest to most recent) = (1, 1, 0, 0)
+  recency-weighted (weights 1..4): weighted mean = 0.30 -> next decision 0
+  uniform-memory   (equal weights): mean          = 0.50 -> next decision 1
+
+[exit code 0, 0.4 s]

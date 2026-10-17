@@ -1,0 +1,8 @@
+$ python ../tests/verify_output.py
+modular_simulation_results.csv: MATCHES (byte-identical)
+sequential_simulation_results_ath.csv: MATCHES (byte-identical)
+simulation_results_hta.csv: MATCHES (byte-identical)
+
+Output matches the reference run.
+
+[exit code 0, 0.7 s]

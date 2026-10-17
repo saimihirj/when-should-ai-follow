@@ -1,0 +1,4 @@
+# Tested with Python 3.13.16 (numpy 2.5.3 requires Python 3.12 or later)
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
